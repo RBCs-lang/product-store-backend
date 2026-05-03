@@ -2,7 +2,7 @@
 
 A RESTful API built with **Flask** and **Supabase (PostgreSQL)** for managing a product inventory.
 
-> 🔗 Backend Repo: https://github.com/RBCs-lang/product-store-Backend
+> 🔗 Frontend Repo: https://github.com/RBCs-lang/product-store-frontend
 
 ---
 
